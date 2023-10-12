@@ -1,4 +1,4 @@
-# abhioo8 - Social Networking Site
+# abhi008 - Social Networking Site
 
 [![CodeFactor](https://www.codefactor.io/repository/github/mayuresh-22/minglr-social-network-site/badge/main)](https://www.codefactor.io/repository/github/mayuresh-22/minglr-social-network-site/overview/main)
 
